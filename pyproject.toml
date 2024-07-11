@@ -16,6 +16,11 @@ wandb = "^0.17.4"
 python-dotenv = "^1.0.1"
 accelerate = "^0.32.1"
 diffusers = "^0.29.2"
+torchtune = "^0.1.1"
+matplotlib = "^3.9.1"
+setuptools = "69.5.1"
+gdown = "^5.2.0"
+torch-summary = "^1.4.5"
 
 
 [build-system]

@@ -2,3 +2,4 @@ emoUERJ*
 models/
 wandb/
 *.env
+*.pt
